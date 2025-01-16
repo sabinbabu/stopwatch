@@ -1,0 +1,34 @@
+.flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.main-container {
+  height: 100vh;
+}
+
+.stopwatch-container {
+  width: 25rem;
+}
+
+.display {
+  padding: 1.5rem;
+  border: 1px solid gray;
+  border-radius: 10px;
+  font-size: xx-large;
+  margin-bottom: 10px;
+  font-family: "Comfortaa";
+}
+
+.controls-menu {
+  justify-content: space-between;
+}
+
+button {
+  padding: 0.8rem 2rem;
+  border-radius: 10px;
+  cursor: pointer;
+  border: none;
+  letter-spacing: 1px;
+}
