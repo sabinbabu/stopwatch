@@ -32,3 +32,15 @@ button {
   border: none;
   letter-spacing: 1px;
 }
+
+#start:hover {
+  background-color: rgb(178, 231, 178);
+}
+
+#stop:hover {
+  background-color: rgb(250, 185, 178);
+}
+
+#reset:hover {
+  background-color: rgb(241, 247, 137);
+}
